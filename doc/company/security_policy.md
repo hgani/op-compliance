@@ -70,16 +70,17 @@ This policy applies to:
 2. **User Access Management**: Formal processes shall be implemented for granting, reviewing, and revoking user access rights.
 
 3. **Authentication**:
-   - All systems requiring authentication shall implement strong password policies
+   - All systems requiring authentication shall implement strong authentication mechanisms based on current industry best practices
    - Multi-factor authentication (MFA) shall be required for:
      - Remote access to company systems
      - Privileged accounts
      - Access to sensitive systems and data
-   - Passwords must meet the following requirements:
-     - Minimum length of 12 characters
-     - Complexity requirements (uppercase, lowercase, numbers, special characters)
-     - No reuse of previous 10 passwords
-     - Expiration after 90 days
+   - Password policies shall:
+     - Meet or exceed industry-standard complexity requirements
+     - Implement reasonable length requirements based on current security guidance
+     - Prevent reuse of previous passwords
+     - Include appropriate expiration periods based on risk assessment
+     - Be reviewed and updated regularly to align with evolving standards
 
 4. **Session Management**: Secure session management practices shall be implemented, including automatic timeout after periods of inactivity.
 
@@ -88,9 +89,10 @@ This policy applies to:
 1. **Data Classification**: All company data shall be classified according to its sensitivity and criticality.
 
 2. **Data Encryption**:
-   - All sensitive data shall be encrypted at rest using AES-256 or stronger
-   - All data transmitted over networks shall be encrypted using TLS 1.2 or higher
-   - Full disk encryption shall be implemented on all company-owned devices
+   - All sensitive data shall be encrypted at rest using industry-standard strong encryption algorithms
+   - All data transmitted over networks shall be encrypted using current secure protocols
+   - Full disk encryption shall be implemented on all company-owned portable devices and where sensitive data is stored
+   - Encryption standards shall be reviewed periodically and updated as stronger standards become available
 
 3. **Data Handling**:
    - Clear guidelines shall be established for the handling, storage, and disposal of sensitive data
@@ -106,9 +108,10 @@ This policy applies to:
 2. **Firewall Configuration**: Firewalls shall be configured to deny all traffic by default and only allow necessary services and protocols.
 
 3. **Wireless Security**:
-   - All wireless networks shall use WPA2 or WPA3 encryption
+   - All wireless networks shall use current industry-standard encryption protocols
    - Guest networks shall be isolated from the corporate network
-   - Wireless intrusion detection/prevention systems shall be implemented
+   - Wireless intrusion detection/prevention systems shall be implemented where appropriate
+   - Wireless security controls shall be reviewed and updated as new threats and technologies emerge
 
 4. **Remote Access**: Secure VPN connections shall be required for all remote access to company resources.
 
@@ -154,15 +157,16 @@ This policy applies to:
 
 2. **Business Continuity Planning**: A business continuity plan shall be maintained to ensure critical business functions can continue during disruptions.
 
-3. **Plan Testing**: Business continuity and disaster recovery plans shall be tested at least annually.
+3. **Plan Testing**: Business continuity and disaster recovery plans shall be tested regularly based on risk assessment and criticality of systems.
 
 ### Security Awareness and Training
 
 1. **Security Awareness Program**: All employees shall participate in a security awareness program that includes:
    - Initial security training upon hiring
-   - Annual refresher training
-   - Security awareness communications and reminders
-   - Phishing simulation exercises
+   - Regular refresher training based on risk and threat landscape
+   - Ongoing security awareness communications and reminders
+   - Periodic phishing simulation exercises
+   - Role-specific training for personnel with access to sensitive systems or data
 
 2. **Role-Based Training**: Additional specialized training shall be provided to personnel with specific security responsibilities.
 
@@ -190,14 +194,15 @@ This policy applies to:
 
 ## Compliance
 
-The company shall maintain compliance with all applicable laws, regulations, and industry standards, including but not limited to:
+The company shall maintain compliance with all applicable laws, regulations, and industry standards. This includes but is not limited to:
 
-- General Data Protection Regulation (GDPR)
-- California Consumer Privacy Act (CCPA)
-- Payment Card Industry Data Security Standard (PCI DSS) - where applicable
-- ISO 27001/ISO 27002
-- Health Insurance Portability and Accountability Act (HIPAA) - where applicable
-- Sarbanes-Oxley Act (SOX) - where applicable
+- Data protection and privacy regulations applicable to jurisdictions of operation
+- Industry-specific compliance requirements (e.g., PCI DSS for payment processing)
+- International security standards and frameworks
+- Sector-specific regulations (e.g., healthcare, finance)
+- Regional and local compliance requirements
+
+The specific compliance obligations shall be identified, documented, and regularly reviewed as regulations evolve.
 
 ## Roles and Responsibilities
 
