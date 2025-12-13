@@ -50,6 +50,7 @@ This policy applies to:
    - Clear privacy notices
    - Easily accessible policy
    - Direct communication about data practices
+   - Clear information on what data is collected and who can access it
 
 ## Use of Personal Information
 
@@ -144,6 +145,11 @@ Individuals have the right to:
 - Verify complete removal from backups where feasible
 - Document deletion actions
 
+### Account Deletion
+- When users delete their accounts, all associated data is automatically deleted after a specified period
+- Users are informed of the deletion timeline at the time of account deletion
+- Data is removed from all active systems and backups where feasible
+
 ## Cookies and Tracking
 
 ### Types Used
@@ -188,11 +194,16 @@ Individuals have the right to:
 ## Employee Responsibilities
 
 All personnel must:
-- Complete privacy training
+- Participate in privacy awareness discussions and stay informed about current privacy requirements
 - Handle data according to this policy
 - Report privacy concerns immediately
 - Maintain confidentiality
 - Follow data handling procedures
+
+### Access Restrictions
+- Personnel have limited access to production data based on their role
+- Engineers may access high-level production data for debugging only
+- No personnel has access to personal data and uploaded documents unless explicitly required for their role
 
 ## Policy Review
 
@@ -201,6 +212,12 @@ This policy will be reviewed:
 - When laws change
 - After privacy incidents
 - When implementing new services
+
+### Policy Updates
+- All policy changes must be reviewed by Privacy Officer before implementation
+- Updated policies are posted to company website
+- Privacy Officer maintains version history and change log
+- No separate notifications sent to users about policy changes
 
 ## Enforcement
 
