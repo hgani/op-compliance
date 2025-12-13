@@ -98,26 +98,26 @@ We comply with:
 
 Note: Keep records of client security requirements and how we meet them.
 
-## Roles
+## Shared Responsibility
 
-**Director**:
-- Overall security responsibility
-- Approve security-related expenses
-- Make final decisions on security incidents
-- Ensure security measures are properly implemented
+Everyone in the company is responsible for security:
 
-**All Personnel (Employees, Contractors, and other third-party workers)**:
-- Follow this security policy
-- Report security concerns immediately
+- Follow this security policy in all work activities
+- Report security concerns and potential incidents immediately
 - Complete required security training/actions
 - Protect company and client information
+- Make security decisions based on risk and common sense
+- Approve reasonable security-related expenses as needed
 
 ## Security Stack (Current Implementation)
 
 **Identity & Access Management**:
-- Password manager: 1Password (Business plan)
+- Password manager: KeePass
 - MFA: Authenticator apps and hardware keys
-- SSO: Where available
+- SSO: Use Google Workspace login when available (e.g., "Continue with Google")
+  - This provides better security through Google's strong authentication and monitoring
+  - Reduces number of passwords we need to manage
+  - Makes it easier to revoke access when contractors finish
 
 **Infrastructure Security**:
 - Cloud provider: AWS (with security best practices)
@@ -146,7 +146,3 @@ Note: Keep records of client security requirements and how we meet them.
 ---
 
 **This is a living document.** If something doesn't make sense or needs updating, bring it up in team discussions.
-
-**Questions?** Contact: [Director's email]
-
-**Last updated:** December 13, 2025
