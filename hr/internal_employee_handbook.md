@@ -6,8 +6,8 @@
 ## Work Environment
 
 ### Remote Work
-- **Work from home**: No office commute required
-- **Flexible scheduling**: Arrange your work hours around deliverables and team needs
+- **Work from home**: No office commute or getting stuck in traffic
+- **Flexible scheduling**: Arrange your work hours around deliverables and smooth team communication
 - **Cross-timezone collaboration**: Be mindful of team members in different time zones
 
 
@@ -15,9 +15,15 @@
 
 ### Standard Hours
 - **Full-time**: 40 hours per week
-- **Core overlap**: Ensure 3-4 hours overlap with team for collaboration
-- **Work-life balance**: We don't encourage regular overtime
+- **Core overlap**: Ensure 4-5 hours overlap with team for collaboration
 - **Additional hours**: If company requires you to work consistently beyond normal hours, we'll discuss compensation
+
+## Health and Well-being
+
+- **Regular breaks**: We encourage taking short breaks throughout the day
+- **Exercise**: Stay active and maintain physical health
+- **Work-life balance**: Log off at reasonable times, maintain boundaries
+- **Mental health**: Speak up if you're feeling overwhelmed
 
 ### Leave Policy
 - **Annual leave**: Follow local employment regulations in your country (you're entitled to this time off)
@@ -35,7 +41,7 @@
 
 ### Performance Expectations
 - **Regular feedback**: Weekly check-ins on progress and challenges
-- **Outcome-focused**: Success measured by delivered value and quality (fewer bugs, minimal back-and-forth)
+- **Outcome-focused**: Success measured by contribution and quality of work (fewer bugs, minimal back-and-forth)
 - **Team contribution**: We value those who help others succeed and share knowledge freely
 
 ### Career Growth
@@ -66,18 +72,6 @@
 - **No bureaucracy or politics**: Focus on work, not paperwork and office politics
 - **Transparency**: We're open about company performance and decisions that affect you
 
-## Health and Safety
-
-### Remote Work Setup
-- **Ergonomics**: Ensure your workspace is comfortable and safe
-- **Regular breaks**: Take breaks to rest your eyes and stretch
-- **Work-life balance**: Log off at reasonable times, maintain boundaries
-- **Mental health**: Speak up if you're feeling overwhelmed or stressed
-
-### Support
-- **Flexible hours**: Adjust work hours if needed for health reasons
-- **Time off**: Take sick leave when needed - don't work while ill
-- **Accommodations**: We'll work with you on any special requirements
 
 
 ## Leaving the Company
