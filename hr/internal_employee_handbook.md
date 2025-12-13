@@ -1,7 +1,7 @@
 # Employee Handbook
 
 **Date:** December 13, 2025
-**Applies to:** All employees and contractors of DocuLocker
+**Applies to:** All team members
 
 ## Work Environment
 

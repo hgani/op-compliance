@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Date:** December 13, 2025
-**Applies to:** All company personnel and systems
+**Applies to:** All team members and systems
 
 ## Shared Responsibility
 

@@ -1,7 +1,7 @@
 # Code of Conduct
 
 **Date:** December 13, 2025
-**Applies to:** All team members at DocuLocker
+**Applies to:** All team members
 
 ## Our Values
 
