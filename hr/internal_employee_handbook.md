@@ -3,63 +3,13 @@
 **Date:** December 13, 2025
 **Applies to:** All employees and contractors of DocuLocker
 
-## Our Culture and Values
+## Work Environment
 
-We are a small, lean software company that values:
-
-- **Long-term partnership**: We seek team members who want to grow with us long-term
-- **Pragmatism over bureaucracy**: We focus on what works, not on rules and politics
-- **Efficiency and agility**: Fast, efficient work that delivers maximum value
-- **Continuous learning**: Stay curious, learn new technologies, share knowledge
-- **Independence with accountability**: Work autonomously but take responsibility for results
-- **Innovation**: Be creative, suggest improvements, challenge the status quo
-- **Direct communication**: No hierarchy barriers - learn directly from experienced team members
-
-## How We Work
-
-### Remote Work Environment
+### Remote Work
 - **Work from home**: No office commute required
 - **Flexible scheduling**: Arrange your work hours around deliverables and team needs
 - **Cross-timezone collaboration**: Be mindful of team members in different time zones
 
-### Communication Guidelines
-- **Use clear, professional language**: Team communication should be clear and respectful
-- **Be responsive**: Reply to messages within reasonable time during work hours
-- **Document important decisions**: Use shared documents for reference
-- **Regular check-ins**: Daily/weekly updates to keep everyone aligned
-- **Direct approach**: Talk directly to people, don't create unnecessary intermediaries
-
-### Work Structure
-- **Project-based work**: Focus on delivering features and fixes
-- **Agile approach**: Iterate quickly, get feedback, adapt
-- **Lean processes**: Minimal paperwork, maximum productivity
-- **No politics**: Focus on technical solutions, not office politics
-
-## What We Expect From You
-
-### 1. Professional Conduct
-- **100% commitment**: Focus fully on your work during work hours
-- **Reliability**: Deliver on your promises and meet deadlines
-- **Proactive communication**: If you're blocked or running late, communicate early
-- **Quality mindset**: Take pride in your work, test before shipping
-- **Continuous improvement**: Always look for ways to improve code and processes
-
-### 2. Technical Standards
-- **Write clean code**: Follow best practices, document when necessary
-- **Collaborate effectively**: Use version control properly, review code constructively
-- **Security awareness**: Follow security policies, protect company and client data
-- **Practical solutions**: Choose the right tool for the job, not just the newest trend
-
-### 3. Team Collaboration
-- **Share knowledge**: Help others learn from your experience
-- **Constructive feedback**: Give and receive feedback professionally
-- **Mentorship**: Learn from experienced team members, help juniors grow
-- **Respect time**: Be prepared for meetings, stick to agendas
-
-### 4. Personal Development
-- **Set goals**: Identify skills to develop, discuss with team
-- **Apply knowledge**: Bring new learning to real projects
-- **Share insights**: Blog, present, or document what you learn
 
 ## Working Hours and Time Off
 
@@ -84,13 +34,12 @@ We are a small, lean software company that values:
 ## Performance and Growth
 
 ### Performance Expectations
-- **Clear goals**: Each project/iteration has defined objectives
 - **Regular feedback**: Weekly check-ins on progress and challenges
-- **Outcome-focused**: Success measured by delivered value, not hours worked
-- **Team contribution**: Help others succeed, share knowledge freely
+- **Outcome-focused**: Success measured by delivered value and quality (fewer bugs, minimal back-and-forth)
+- **Team contribution**: We value those who help others succeed and share knowledge freely
 
 ### Career Growth
-- **Learning opportunities**: Strong appetite to try new techniques and tools
+- **Learning opportunities**: We constantly encourage our developers to try new techniques and tools
 - **Direct mentorship**: Work closely with the CTO
 - **Varied projects**: Opportunity to work on different technologies
 
@@ -113,8 +62,9 @@ We are a small, lean software company that values:
 - **Salary reviews**: Performance-based reviews annually
 - **Timely payment**: Salaries paid monthly at end of month via bank transfer
 - **Flexible work**: Work from anywhere with good internet
-- **Minimal bureaucracy**: Focus on work, not paperwork
 - **Direct access**: Work directly with experienced leadership
+- **No bureaucracy or politics**: Focus on work, not paperwork and office politics
+- **Transparency**: We're open about company performance and decisions that affect you
 
 ## Health and Safety
 
@@ -142,7 +92,7 @@ We are a small, lean software company that values:
 - **Written contract**: You'll have a formal agreement documenting your role, pay, and terms
 - **Tax responsibility**: You're responsible for your own tax obligations (get professional advice if needed)
 - **Local laws**: Familiarize yourself with employment laws in your country
-- **Confidentiality**: Protect company and client information as agreed in your contract
+- **Confidentiality**: Follow confidentiality terms in your contract and Code of Conduct
 - **Work product**: Code created for company belongs to company (as specified in your agreement)
 
 
