@@ -19,13 +19,11 @@ We are a small, lean software company that values:
 
 ### Remote Work Environment
 - **Work from home**: No office commute required
-- **Core availability**: Must be online and reachable during agreed work hours
 - **Flexible scheduling**: Arrange your work hours around deliverables and team needs
-- **Results-oriented**: We care about what you deliver, not when you're online
 - **Cross-timezone collaboration**: Be mindful of team members in different time zones
 
 ### Communication Guidelines
-- **Use Indonesian for daily work**: All team communication should be in Indonesian
+- **Use clear, professional language**: Team communication should be clear and respectful
 - **Be responsive**: Reply to messages within reasonable time during work hours
 - **Document important decisions**: Use shared documents for reference
 - **Regular check-ins**: Daily/weekly updates to keep everyone aligned
@@ -47,7 +45,6 @@ We are a small, lean software company that values:
 - **Continuous improvement**: Always look for ways to improve code and processes
 
 ### 2. Technical Standards
-- **Learn continuously**: Technology changes fast - stay updated
 - **Write clean code**: Follow best practices, document when necessary
 - **Collaborate effectively**: Use version control properly, review code constructively
 - **Security awareness**: Follow security policies, protect company and client data
@@ -55,24 +52,21 @@ We are a small, lean software company that values:
 
 ### 3. Team Collaboration
 - **Share knowledge**: Help others learn from your experience
-- **Ask for help**: Don't struggle alone - reach out early
 - **Constructive feedback**: Give and receive feedback professionally
 - **Mentorship**: Learn from experienced team members, help juniors grow
 - **Respect time**: Be prepared for meetings, stick to agendas
 
 ### 4. Personal Development
-- **Set learning goals**: Identify skills to develop, discuss with team
-- **Explore new tech**: Dedicate time to learning new frameworks/technologies
-- **Apply learning**: Bring new knowledge to real projects
+- **Set goals**: Identify skills to develop, discuss with team
+- **Apply knowledge**: Bring new learning to real projects
 - **Share insights**: Blog, present, or document what you learn
 
 ## Working Hours and Time Off
 
 ### Standard Hours
 - **Full-time**: 40 hours per week
-- **Flexible timing**: Choose your working hours around team availability
 - **Core overlap**: Ensure 3-4 hours overlap with team for collaboration
-- **Overtime**: We don't encourage regular overtime - prioritize work-life balance
+- **Work-life balance**: We don't encourage regular overtime
 
 ### Leave Policy
 - **Annual leave**: 20 days per year (pro-rated for first year)
@@ -151,9 +145,9 @@ We are a small, lean software company that values:
 
 ### When You Face Challenges
 1. **Try to solve independently first**: Use your skills and resources
-2. **Ask the team**: Reach out in Slack/email for technical help
+2. **Ask for help**: Reach out in Slack/email for technical help
 3. **Escalate if needed**: If unresolved, bring to director's attention
-4. **Document solutions**: Share what you learned with the team
+4. **Document solutions**: Share what you learned
 
 ### When You Have Concerns
 1. **Talk directly**: Address issues with the person involved first
