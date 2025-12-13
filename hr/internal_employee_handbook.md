@@ -10,6 +10,14 @@
 - **Flexible scheduling**: Arrange your work hours around deliverables and smooth team communication
 - **Cross-timezone collaboration**: Be mindful of team members in different time zones
 
+## Compensation and Benefits
+
+- **Salary reviews**: Performance-based reviews annually
+- **Timely payment**: Salaries paid monthly at end of month via bank transfer
+- **Flexible work**: Work from anywhere with good internet
+- **Direct access**: Work directly with experienced leadership
+- **No bureaucracy or politics**: Focus on work, not paperwork and office politics
+- **Transparency**: We're open about company performance and decisions that affect you
 
 ## Working Hours and Time Off
 
@@ -17,13 +25,6 @@
 - **Full-time**: 40 hours per week
 - **Core overlap**: Ensure 4-5 hours overlap with team for collaboration
 - **Additional hours**: If company requires you to work consistently beyond normal hours, we'll discuss compensation
-
-## Health and Well-being
-
-- **Regular breaks**: We encourage taking short breaks throughout the day
-- **Exercise**: Stay active and maintain physical health
-- **Work-life balance**: Log off at reasonable times, maintain boundaries
-- **Mental health**: Speak up if you're feeling overwhelmed
 
 ### Leave Policy
 - **Annual leave**: Follow local employment regulations in your country (you're entitled to this time off)
@@ -36,6 +37,13 @@
 - Available for extended personal situations
 - Discuss with director at least 1 month in advance
 - Subject to project timelines and team capacity
+
+## Health and Well-being
+
+- **Regular breaks**: We encourage taking short breaks throughout the day
+- **Exercise**: Stay active and maintain physical health
+- **Work-life balance**: Log off at reasonable times, maintain boundaries
+- **Mental health**: Speak up if you're feeling overwhelmed
 
 ## Performance and Growth
 
@@ -64,17 +72,6 @@
 - **Security**: Must follow security policies (encryption, MFA, etc.)
 - **Reimbursement**: Generally approved for team-wide tools and software licenses that benefit everyone
 
-## Compensation and Benefits
-
-- **Salary reviews**: Performance-based reviews annually
-- **Timely payment**: Salaries paid monthly at end of month via bank transfer
-- **Flexible work**: Work from anywhere with good internet
-- **Direct access**: Work directly with experienced leadership
-- **No bureaucracy or politics**: Focus on work, not paperwork and office politics
-- **Transparency**: We're open about company performance and decisions that affect you
-
-
-
 ## Leaving the Company
 
 ### End of Engagement
@@ -89,7 +86,6 @@
 - **Local laws**: Familiarize yourself with employment laws in your country
 - **Confidentiality**: Follow confidentiality terms in your contract and Code of Conduct
 - **Work product**: Code created for company belongs to company (as specified in your agreement)
-
 
 ---
 
