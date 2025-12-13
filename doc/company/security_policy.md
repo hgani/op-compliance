@@ -4,6 +4,45 @@
 **Date:** December 13, 2025
 **Applies to:** All company personnel and systems
 
+## Shared Responsibility
+
+Everyone in the company is responsible for security:
+
+- Follow this security policy in all work activities
+- Report security concerns and potential incidents immediately
+- Complete required security training/actions
+- Protect company and client information
+- Make security decisions based on risk and common sense
+- Approve reasonable security-related expenses as needed
+
+## Security Stack (Current Implementation)
+
+**Identity & Access Management**:
+- Password manager: KeePass
+- MFA: Authenticator apps and hardware keys
+- SSO: Use Google Workspace login when available (e.g., "Continue with Google")
+  - This provides better security through Google's strong authentication and monitoring
+  - Reduces number of passwords we need to manage
+  - Makes it easier to revoke access when contractors finish
+
+**Infrastructure Security**:
+- Cloud provider: AWS (with security best practices)
+- Firewall: Cloudflare WAF with managed rulesets
+- DDoS protection: Cloudflare's network protection
+- Monitoring: CloudTrail + GuardDuty
+- Network security: Private subnets, security groups, NACLs
+
+**Endpoint Protection**:
+- Windows: Microsoft Defender + BitLocker
+- macOS: XProtect + FileVault
+- Linux: LUKS + ClamAV
+- Browser security: Use modern browsers (Chrome, Firefox, Safari, Edge) and keep them updated
+
+**Communication**:
+- Email: Google Workspace (with 2-factor authentication enabled)
+- File storage: Google Drive (encrypted by default)
+- Code repositories: GitHub (with 2-factor authentication)
+
 ## What We Must Do
 
 ### 1. Protect Company Data
@@ -42,7 +81,8 @@
   - Consider using your phone's hotspot instead of public Wi-Fi for sensitive work
 
 ### 4. Device Security
-- **What to Enable on Your Devices**:
+- Keep all devices updated (OS, software, antivirus)
+- **Security Hardening**:
   - Windows: Turn on BitLocker (Control Panel > BitLocker Drive Encryption)
   - Mac: Turn on FileVault (System Preferences > Security & Privacy > FileVault)
   - All devices: Set screen lock to activate after 5 minutes
@@ -97,45 +137,6 @@ We comply with:
 - Basic industry standards for data protection
 
 Note: Keep records of client security requirements and how we meet them.
-
-## Shared Responsibility
-
-Everyone in the company is responsible for security:
-
-- Follow this security policy in all work activities
-- Report security concerns and potential incidents immediately
-- Complete required security training/actions
-- Protect company and client information
-- Make security decisions based on risk and common sense
-- Approve reasonable security-related expenses as needed
-
-## Security Stack (Current Implementation)
-
-**Identity & Access Management**:
-- Password manager: KeePass
-- MFA: Authenticator apps and hardware keys
-- SSO: Use Google Workspace login when available (e.g., "Continue with Google")
-  - This provides better security through Google's strong authentication and monitoring
-  - Reduces number of passwords we need to manage
-  - Makes it easier to revoke access when contractors finish
-
-**Infrastructure Security**:
-- Cloud provider: AWS (with security best practices)
-- Firewall: Cloudflare WAF with managed rulesets
-- DDoS protection: Cloudflare's network protection
-- Monitoring: CloudTrail + GuardDuty
-- Network security: Private subnets, security groups, NACLs
-
-**Endpoint Protection**:
-- Windows: Microsoft Defender + BitLocker
-- macOS: XProtect + FileVault
-- Linux: LUKS + ClamAV
-- Browser security: Use modern browsers (Chrome, Firefox, Safari, Edge) and keep them updated
-
-**Communication**:
-- Email: Google Workspace (with 2-factor authentication enabled)
-- File storage: Google Drive (encrypted by default)
-- Code repositories: GitHub (with 2-factor authentication)
 
 ## Review Schedule
 
