@@ -99,9 +99,15 @@ Everyone in the company is responsible for security:
 - Give vendors minimum access needed for their work
 
 ### 6. Security Testing
-- **Penetration Testing**: Network and application penetration testing is currently in development
-- **Backup Testing**: Test backup and recovery procedures annually to ensure they work when needed
-- **Vulnerability Scanning**: Regularly scan for and address security vulnerabilities
+- **Backup Testing**: Test backup recovery annually
+- **Vulnerability Scanning**: Regularly scan for and fix security issues
+- **Monitoring**:
+  - CloudTrail, GuardDuty, and Cloudflare send automated alerts
+  - Check security alerts weekly
+  - Review unusual activity monthly
+- **Testing Records**:
+  - Keep test results and security alerts in a shared folder
+  - Note any vulnerabilities found and how they were fixed
 
 ### 7. Working Across Borders
 - **Service Provider Awareness**:
