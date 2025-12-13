@@ -7,12 +7,10 @@
 
 Everyone in the company is responsible for security:
 
-- Follow this security policy in all work activities
-- Report security concerns and potential incidents immediately
-- Complete required security training/actions
+- Report security concerns immediately
 - Protect company and client information
-- Make security decisions based on risk and common sense
-- Approve reasonable security-related expenses as needed
+- Make security decisions based on risk assessment
+- Approve reasonable security expenses as needed
 
 ## Security Stack (Current Implementation)
 
@@ -29,7 +27,7 @@ Everyone in the company is responsible for security:
 - Firewall: Cloudflare WAF with managed rulesets
 - DDoS protection: Cloudflare's network protection
 - Monitoring: CloudTrail + GuardDuty
-- Network security: Private subnets, security groups, NACLs
+- Network security: Private subnets, firewalls, and access controls
 
 **Endpoint Protection**:
 - Windows: Microsoft Defender + BitLocker
@@ -72,7 +70,7 @@ Everyone in the company is responsible for security:
 ### 3. Communication Security
 - Use company email for business communications
 - Don't send sensitive information over unencrypted channels
-- Be cautious with public Wi-Fi - use VPN when working remotely
+- Be cautious with public Wi-Fi
 - **How to Send Files Securely**:
   - For documents: Use Google Drive (already encrypted) with share links instead of email attachments
   - For code: Use GitHub repositories
@@ -95,9 +93,9 @@ Everyone in the company is responsible for security:
 - Check with director before using new software for company work
 
 ### 5. Working with Clients and Vendors
-- Check that third-party services we use take security seriously
-- Include security requirements in contractor agreements
-- Don't give vendors more access than they need
+- Verify third-party services have encryption, 2FA, and good security practices
+- Include security requirements in all contractor agreements
+- Give vendors minimum access needed for their work
 
 ### 6. Working Across Borders
 - **Service Provider Awareness**:
@@ -106,11 +104,10 @@ Everyone in the company is responsible for security:
   - Prefer services that allow data region selection
 - **Communication Across Time Zones**:
   - Security incidents: notify immediately regardless of local time
-  - Use written communication (Slack/email) for security updates to ensure accountability
-  - Document all security-related decisions and actions
+  - Use Slack/email for security updates (keeps written record)
 - **Legal Compliance**:
   - Be aware of data protection laws in countries where we operate
-  - Following GDPR generally covers most requirements as it's one of the strictest standards
+  - Following GDPR covers most requirements (it's one of the strictest standards)
   - Be careful when using services that aren't globally recognized - understand their local implications first
 
 ## Specific Actions
@@ -118,7 +115,7 @@ Everyone in the company is responsible for security:
 ### Daily Security Habits
 - Lock your computer when stepping away
 - Think before clicking links or downloading attachments
-- Report anything suspicious to the team
+- Report suspicious emails/links to the team immediately
 
 ### Monthly Check
 - Review who has access to what (remove if not needed)
@@ -150,10 +147,10 @@ Everyone in the company is responsible for security:
 
 We comply with:
 - Privacy laws in countries where we operate
-- Any client-specific security requirements
-- Basic industry standards for data protection
+- Client-specific security requirements
+- Industry standards for data protection
 
-Note: Keep records of client security requirements and how we meet them.
+Keep records of client security requirements and how we meet them.
 
 ## Review Schedule
 

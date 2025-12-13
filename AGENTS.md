@@ -9,7 +9,7 @@
     - Not overly complex
     - Not too bureaucratic and litigious
   - It is for human consumption
-    - It needs to be concise
+    - It needs to be concise, minimize repetition
     - It needs to provide specifics and examples
       - Being a tech company, our documentation needs to be specific on technical guidelines.
   - Don't include information that will go out of date very quickly
