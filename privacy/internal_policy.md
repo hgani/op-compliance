@@ -16,15 +16,15 @@ Everyone in the company is responsible for protecting personal information:
 ## What We Must Do
 
 ### 1. Collect Data Properly
-- **What to collect**: Only collect information necessary for specified purposes
-- **How to inform**: Tell users what data is collected and why
-- **What types**: Identity, technical, communication information
-- **Automated data**: IP addresses, usage patterns, cookies
-- **Special categories**: Only when explicitly required
+- **Purpose limitation**: Collect only what's necessary for the specific product/service
+- **Transparency**: Product privacy notices must clearly state what data is collected and why
+- **Consistency**: Ensure all products follow privacy principles
+- **Review**: Regularly check that data collection aligns with product needs
+- **Special categories**: Only collect sensitive data when explicitly required and consented
 
 ### 2. Use Data Appropriately
 - Use data only for the purpose it was collected
-- Provide services to clients
+- Provide services to clients and users
 - Respond to support requests
 - Send technical notices
 - Improve services through analysis
@@ -58,17 +58,19 @@ Everyone in the company is responsible for protecting personal information:
 - **Record keeping**: Keep records of all requests for compliance purposes
 
 ### 6. Manage Data Retention
-- **Active clients**: Keep data during relationship + 7 years
-- **Former clients**: Keep for 7 years after relationship ends
-- **Website visitors**: Keep analytics data for 24 months
-- **Job applicants**: Keep for 12 months after position filled
-- **Legal**: Keep as required by law
-- **Deletion**: Securely delete when retention period ends
+- **Principle**: Keep personal data only as long as necessary
+- **Active clients/users**: Keep data while providing services
+- **After relationship ends**: Delete when no longer needed for business purposes
+- **Anonymous analytics**: Can be kept indefinitely (not personal data)
+- **Legal holds**: Retain data if required by law or legal proceedings
+  - E.g., Retain client data for 7 years after relationship ends for tax/compliance purposes
+- **Regular review**: Assess if data retention is still justified
+- **Secure deletion**: Remove data when retention period ends
 
 ### 7. Work with Third Parties
 - **Due diligence**: Check privacy practices before engaging
 - **Contracts**: Include privacy requirements in all agreements
-- **Monitoring**: Regular compliance checks
+- **Oversight**: Review third-party compliance when renewing contracts or if issues arise
 - **Data minimization**: Share only necessary data
 
 ## Specific Actions
@@ -84,7 +86,7 @@ Everyone in the company is responsible for protecting personal information:
 - Review data retention compliance
 
 ### As Needed
-- When onboarding clients: Inform them about data use and rights
+- When onboarding clients/users: Inform them about data use and rights
 - When using new services: Verify privacy compliance
 - When data breach occurs: Follow breach response procedures
 - When receiving data requests: Follow request response process
@@ -114,7 +116,7 @@ We comply with:
 - Australian Privacy Principles
 - Other applicable regional laws
 
-Keep records of privacy requirements and how we meet them.
+Keep records of privacy requirements for clients and users and how we meet them.
 
 **Enforcement**
 Privacy violations may result in disciplinary action, up to and including termination of contracts, and may lead to legal consequences.
