@@ -67,12 +67,14 @@ We are a small, lean software company that values:
 - **Full-time**: 40 hours per week
 - **Core overlap**: Ensure 3-4 hours overlap with team for collaboration
 - **Work-life balance**: We don't encourage regular overtime
+- **Additional hours**: If company requires you to work consistently beyond normal hours, we'll discuss compensation
 
 ### Leave Policy
-- **Annual leave**: Follow local employment regulations in your country
-- **Sick leave**: As needed with reasonable notice (including urgent/emergency situations)
+- **Annual leave**: Follow local employment regulations in your country (you're entitled to this time off)
+- **Sick leave**: As needed with reasonable notice (your health comes first)
 - **Public holidays**: Follow your local public holidays
-- **Leave requests**: Give at least 2 weeks notice for planned leave
+- **Leave requests**: Give at least 2 weeks notice for planned leave (we'll accommodate when possible)
+- **Leave denial**: We won't unreasonably deny valid leave requests
 
 ### Unpaid Leave
 - Available for extended personal situations
@@ -93,9 +95,10 @@ We are a small, lean software company that values:
 - **Varied projects**: Opportunity to work on different technologies
 
 ### Feedback and Growth
-- **Weekly discussions**: About work processes and team improvements
+- **Weekly discussions**: About work processes and team improvements (your input matters)
 - **Annual review**: Achievement discussion with peer and self-feedback (includes salary review)
 - **Open communication**: Share feedback anytime, not just in scheduled reviews
+- **Upward feedback**: You're encouraged to give feedback about management and company decisions
 
 ## Tools and Resources
 
@@ -108,6 +111,7 @@ We are a small, lean software company that values:
 ## Compensation and Benefits
 
 - **Salary reviews**: Performance-based reviews annually
+- **Timely payment**: Salaries paid monthly at end of month via bank transfer
 - **Flexible work**: Work from anywhere with good internet
 - **Minimal bureaucracy**: Focus on work, not paperwork
 - **Direct access**: Work directly with experienced leadership
@@ -128,17 +132,10 @@ We are a small, lean software company that values:
 
 ## Leaving the Company
 
-### Resignation
-- **Notice period**: 4 weeks notice for full-time employees
-- **Handover**: Document your work, transfer knowledge properly
-- **Exit interview**: Share feedback to help us improve
-- **Future opportunities**: Good performers are welcome back for contract work
-
-### Contract Completion
-- **Notice**: 2 weeks notice before contract ends
-- **Final deliverables**: Complete all assigned work
-- **Knowledge transfer**: Ensure smooth handover to team
-- **Future collaboration**: Keep the door open for new projects
+### End of Engagement
+- **Notice period**: 4 weeks notice to help handover and transition
+- **Exit interview**: Share honest feedback to help us improve
+- **Timely final payment**: Final invoice paid within agreed terms
 
 ## Your Legal Protections
 
