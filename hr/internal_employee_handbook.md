@@ -69,11 +69,10 @@ We are a small, lean software company that values:
 - **Work-life balance**: We don't encourage regular overtime
 
 ### Leave Policy
-- **Annual leave**: 20 days per year (pro-rated for first year)
-- **Sick leave**: As needed, with reasonable notice
+- **Annual leave**: Follow local employment regulations in your country
+- **Sick leave**: As needed with reasonable notice (including urgent/emergency situations)
 - **Public holidays**: Follow your local public holidays
 - **Leave requests**: Give at least 2 weeks notice for planned leave
-- **Emergency leave**: We understand - just communicate as soon as possible
 
 ### Unpaid Leave
 - Available for extended personal situations
@@ -89,24 +88,16 @@ We are a small, lean software company that values:
 - **Team contribution**: Help others succeed, share knowledge freely
 
 ### Career Growth
-- **Skill progression**: Junior → Mid-level → Senior based on capability
-- **Leadership opportunities**: Technical leadership, mentoring, client interaction
-- **Learning budget**: Available for courses, books, conferences
-- **Internal mobility**: Opportunity to work on different projects/technologies
+- **Learning opportunities**: Strong appetite to try new techniques and tools
+- **Direct mentorship**: Work closely with the CTO
+- **Varied projects**: Opportunity to work on different technologies
 
-### Performance Reviews
-- **Quarterly check-ins**: Informal discussion about progress and goals
-- **Annual review**: Formal discussion about achievements and development
-- **360 feedback**: Team members provide input on collaboration
-- **Self-assessment**: Reflect on your own growth and challenges
+### Feedback and Growth
+- **Weekly discussions**: About work processes and team improvements
+- **Annual review**: Achievement discussion with peer and self-feedback (includes salary review)
+- **Open communication**: Share feedback anytime, not just in scheduled reviews
 
 ## Tools and Resources
-
-### Provided Tools
-- **Hardware**: Laptop necessary for your work
-- **Software**: All necessary development tools and licenses
-- **Learning resources**: Access to courses, books, and training materials
-- **Support**: Technical support for work-related issues
 
 ### Using Your Own Equipment
 - **Allowed**: You may use your own computer if preferred
@@ -116,14 +107,7 @@ We are a small, lean software company that values:
 
 ## Compensation and Benefits
 
-### Salary
-- **Payment**: Monthly bank transfer
-- **Reviews**: Performance-based salary reviews annually
-- **Market adjustment**: Periodic review against market rates
-- **Bonuses**: Project-based or performance bonuses when applicable
-
-### Additional Benefits
-- **Learning budget**: Annual allocation for professional development
+- **Salary reviews**: Performance-based reviews annually
 - **Flexible work**: Work from anywhere with good internet
 - **Minimal bureaucracy**: Focus on work, not paperwork
 - **Direct access**: Work directly with experienced leadership
@@ -183,12 +167,6 @@ We are a small, lean software company that values:
 - **Personal projects**: Keep personal work separate from company work
 - **Non-compete**: Reasonable restrictions only for direct competitors
 
-## Review Schedule
-
-- **Quarterly**: Quick review of work processes and tools
-- **Annually**: Full handbook review and updates
-- **As needed**: Update when processes, tools, or team changes
-- **Team input**: All policy changes discussed with team first
 
 ---
 
