@@ -3,234 +3,132 @@
 **Date:** December 13, 2025
 **Applies to:** All company personnel and systems
 
-## Purpose
+## Shared Responsibility
 
-This policy outlines how we collect, use, store, and protect personal information in compliance with applicable privacy laws including GDPR, CCPA, and Australian Privacy Principles.
+Everyone in the company is responsible for protecting personal information:
 
-## Scope
-
-This policy applies to:
-- All personal information collected from clients, users, and website visitors
-- All personnel who handle personal information
-- All systems and processes that store or process personal information
-
-## Personal Information We Collect
-
-### Information Provided Directly
-- When clients create accounts or use our services
-- When contacting us for support or inquiries
-- When completing transactions or contracts
-
-### Automatically Collected Information
-- IP addresses and device information
-- Usage patterns and service interaction data
-- Location-based data when relevant to services
-- Cookies and similar tracking technologies
-
-### Categories of Personal Information
-- **Identity Information**: Name, contact details, company information
-- **Technical Information**: IP address, device ID, usage data
-- **Communication**: Emails, support requests, feedback
-- **Financial**: Payment information (processed through secure third parties)
-- **Special Categories**: Only when explicitly provided and necessary
-
-## Data Collection Principles
-
-1. **Purpose Limitation**
-   - Collect only information necessary for specified purposes
-   - Inform users why information is being collected
-   - Use information only for the stated purposes
-
-2. **Data Minimization**
-   - Collect only what is necessary
-   - Retain only as long as needed
-   - Anonymize or delete when no longer required
-
-3. **Transparency**
-   - Clear privacy notices
-   - Easily accessible policy
-   - Direct communication about data practices
-   - Clear information on what data is collected and who can access it
-
-## Use of Personal Information
-
-We use personal information to:
-- Provide and maintain our services
-- Process transactions and send related information
-- Respond to customer service requests
-- Send technical notices and support messages
-- Communicate about policy changes
-- Improve our services through analysis
-- Comply with legal obligations
-- Protect against fraud and abuse
-
-## Data Sharing and Disclosure
-
-We do not sell personal information. We may share information only when:
-
-1. **Service Providers**
-   - Payment processors
-   - Cloud service providers
-   - Analytics services
-   - Under strict confidentiality agreements
-
-2. **Legal Requirements**
-   - When required by law
-   - To protect our rights
-   - To prevent fraud
-   - To ensure safety
-
-3. **Business Transfers**
-   - In case of merger, acquisition, or sale of assets
-   - With proper notice and choice for affected users
-
-## Data Security
-
-### Technical Measures
-- Encryption of data at rest and in transit
-- Access controls based on least privilege
-- Regular security testing and monitoring
-- Secure development practices
-
-### Organizational Measures
-- Privacy training for all personnel
-- Confidentiality agreements
-- Limited access to personal data
-- Regular privacy impact assessments
-
-## International Data Transfers
-
-When transferring data internationally:
-- Use services with adequate protection (e.g., GDPR-compliant)
-- Ensure contractual safeguards are in place
-- Use standard contractual clauses where required
-- Maintain equivalent protection standards
-
-## Data Subject Rights
-
-Individuals have the right to:
-- **Access**: Know what personal data we hold
-- **Rectification**: Correct inaccurate data
-- **Erasure**: Request deletion (where applicable)
-- **Portability**: Receive data in machine-readable format
-- **Objection**: Object to processing of personal data
-- **Restriction**: Limit processing in certain circumstances
-
-## Responding to Requests
-
-### Timeframes
-- Acknowledge requests within 5 business days
-- Provide response within 30 days (extendable if complex)
-- Document all requests and responses
-
-### Process
-1. Verify identity of requester
-2. Locate relevant information
-3. Assess request against legal grounds
-4. Provide response or explanation for refusal
-5. Document outcome
-
-## Data Retention
-
-### Retention Periods
-- Active clients: Duration of relationship + 7 years
-- Former clients: 7 years after relationship ends
-- Website visitors: 24 months (analytics data)
-- Job applicants: 12 months after position filled
-- Legal requirements: As required by law
-
-### Deletion Process
-- Automated deletion where possible
-- Secure manual deletion for special categories
-- Verify complete removal from backups where feasible
-- Document deletion actions
-
-### Account Deletion
-- When users delete their accounts, all associated data is automatically deleted after a specified period
-- Users are informed of the deletion timeline at the time of account deletion
-- Data is removed from all active systems and backups where feasible
-
-## Cookies and Tracking
-
-### Types Used
-- Essential cookies (required for service)
-- Analytics cookies (anonymous usage data)
-- Functional cookies (remember preferences)
-
-### Control Options
-- Cookie consent banner
-- Browser settings
-- Opt-out mechanisms where available
-- Clear information about purpose
-
-## Vendor Management
-
-### Due Diligence
-- Privacy impact assessments before engagement
-- Review of privacy policies and practices
-- Data processing agreements
-- Regular compliance checks
-
-### Requirements
-- Minimum necessary data sharing
-- Purpose limitation
-- Security standards equivalent to ours
-- Right to audit (where contractually possible)
-- Return/destruction of data on contract end
-
-## Breach Response
-
-### Notification Timeline
-- Internal: Immediately upon discovery
-- Supervisory authority: Within 72 hours (where required)
-- Affected individuals: Without undue delay
-
-### Process
-1. Assess scope and impact
-2. Contain and remediate
-3. Notify as required
-4. Document and learn from incident
-
-## Employee Responsibilities
-
-All personnel must:
-- Participate in privacy awareness discussions and stay informed about current privacy requirements
-- Handle data according to this policy
+- Handle personal data according to applicable laws (GDPR, CCPA, Australian Privacy Principles)
 - Report privacy concerns immediately
-- Maintain confidentiality
-- Follow data handling procedures
+- Follow privacy procedures in all work activities
+- Make privacy decisions based on risk assessment
+- Participate in privacy discussions and stay informed about current requirements
 
-### Access Restrictions
-- Personnel have limited access to production data based on their role
-- Engineers may access high-level production data for debugging only
-- No personnel has access to personal data and uploaded documents unless explicitly required for their role
+## What We Must Do
 
-## Policy Review
+### 1. Collect Data Properly
+- **What to collect**: Only collect information necessary for specified purposes
+- **How to inform**: Tell users what data is collected and why
+- **What types**: Identity, technical, communication information
+- **Automated data**: IP addresses, usage patterns, cookies
+- **Special categories**: Only when explicitly required
 
-This policy will be reviewed:
-- Annually
-- When laws change
-- After privacy incidents
-- When implementing new services
+### 2. Use Data Appropriately
+- Use data only for the purpose it was collected
+- Provide services to clients
+- Respond to support requests
+- Send technical notices
+- Improve services through analysis
+- Comply with legal requirements
+- Process payments (through secure third-party payment processors only)
 
-### Policy Updates
-- All policy changes must be reviewed by Privacy Officer before implementation
-- Updated policies are posted to company website
-- Privacy Officer maintains version history and change log
-- No separate notifications sent to users about policy changes
+### 3. Share Data Carefully
+- Do NOT sell personal information
+- Share only with service providers (payment processors, cloud services)
+- Require confidentiality agreements from all third parties
+- Share when required by law
+- Share for business transfers (with notice)
 
-## Enforcement
+### 4. Protect Data Privacy
+- Follow the security policy for technical protections
+- Limit access based on role and need
+- Personnel can access production data only for their role
+- Engineers can access high-level data for debugging only
+- NO access to personal data and uploaded documents unless required
 
-Failure to comply with this policy may result in:
-- Disciplinary action
-- Contract termination
-- Legal consequences
-- Regulatory penalties
+### 5. Handle Data Requests
+- **Types of requests**: Access data, correct errors, delete data, data portability, object to processing
+- **Timeline**: Acknowledge within 5 days, provide full response within 30 days
+- **Process**:
+  1. Verify requester's identity
+  2. Locate all personal data
+  3. Assess if request can be fulfilled
+  4. Provide response or explain refusal
+  5. Document the request and outcome
+- **Account deletion**: When users delete accounts, all data is automatically deleted after specified period
+- **Record keeping**: Keep records of all requests for compliance purposes
+
+### 6. Manage Data Retention
+- **Active clients**: Keep data during relationship + 7 years
+- **Former clients**: Keep for 7 years after relationship ends
+- **Website visitors**: Keep analytics data for 24 months
+- **Job applicants**: Keep for 12 months after position filled
+- **Legal**: Keep as required by law
+- **Deletion**: Securely delete when retention period ends
+
+### 7. Work with Third Parties
+- **Due diligence**: Check privacy practices before engaging
+- **Contracts**: Include privacy requirements in all agreements
+- **Monitoring**: Regular compliance checks
+- **Data minimization**: Share only necessary data
+
+## Specific Actions
+
+### Daily Privacy Practices
+- Think before collecting personal information
+- Use anonymized data when possible for testing
+- Verify you're using data only for intended purpose
+
+### Quarterly Check
+- Review who has access to personal data (remove if not needed)
+- Check third-party service privacy practices
+- Review data retention compliance
+
+### As Needed
+- When onboarding clients: Inform them about data use and rights
+- When using new services: Verify privacy compliance
+- When data breach occurs: Follow breach response procedures
+- When receiving data requests: Follow request response process
+
+## Incident Response (Privacy Breaches)
+
+1. **Immediate Steps**
+   - Contain the breach
+   - Assess what data was affected
+   - Document the incident
+
+2. **Notify**
+   - Inform Director immediately
+   - Notify authorities within 72 hours if required
+   - Notify affected individuals without undue delay
+
+3. **Remediate**
+   - Fix the vulnerability
+   - Prevent future occurrences
+   - Learn from the incident
+
+## Compliance and Enforcement
+
+We comply with:
+- GDPR (EU)
+- CCPA (California)
+- Australian Privacy Principles
+- Other applicable regional laws
+
+Keep records of privacy requirements and how we meet them.
+
+**Enforcement**
+Privacy violations may result in disciplinary action, up to and including termination of contracts, and may lead to legal consequences.
+
+**Document Owner**: Director
+
+## Review Schedule
+
+- Annual review of privacy policy
+- Review when laws change
+- Review after privacy incidents
+- Review when implementing new services
+- Aligned with security policy review
 
 ---
 
-**Document Owner:** Director
-**Approval Date:** December 13, 2025
-**Next Review Date:** December 13, 2026
-
-For questions about this policy or privacy matters, contact: [Director's email]
+**This is a living document.** If something doesn't make sense or needs updating, bring it up in team discussions.
