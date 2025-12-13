@@ -11,6 +11,7 @@ Everyone in the company is responsible for security:
 - Protect company and client information
 - Make security decisions based on risk assessment
 - Approve reasonable security expenses as needed
+- Participate in security discussions and stay informed about current threats
 
 ## Security Stack (Current Implementation)
 
@@ -97,7 +98,12 @@ Everyone in the company is responsible for security:
 - Include security requirements in all contractor agreements
 - Give vendors minimum access needed for their work
 
-### 6. Working Across Borders
+### 6. Security Testing
+- **Penetration Testing**: Network and application penetration testing is currently in development
+- **Backup Testing**: Test backup and recovery procedures annually to ensure they work when needed
+- **Vulnerability Scanning**: Regularly scan for and address security vulnerabilities
+
+### 7. Working Across Borders
 - **Service Provider Awareness**:
   - Use cloud services based in trusted jurisdictions (US, EU, etc.)
   - Check where third-party services store their data
@@ -143,7 +149,7 @@ Everyone in the company is responsible for security:
    - Don't try to fix it yourself unless you're sure how
    - Preserve evidence (don't delete logs or files)
 
-## Compliance Basics
+## Compliance and Enforcement
 
 We comply with:
 - Privacy laws in countries where we operate
@@ -152,11 +158,15 @@ We comply with:
 
 Keep records of client security requirements and how we meet them.
 
+**Enforcement**
+Security violations may result in disciplinary action, up to and including termination of contracts, and may lead to legal consequences.
+
 ## Review Schedule
 
 - Quick review every 6 months
 - Full review annually or after any security incident
 - Update when we start using new tools or services
+- Test incident response procedures annually
 
 ---
 
