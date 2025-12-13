@@ -100,11 +100,10 @@ Everyone in the company is responsible for security:
 
 ### 6. Security Testing
 - **Backup Testing**: Test backup recovery annually
-- **Vulnerability Scanning**: Regularly scan for and fix security issues
+- **Vulnerability Scanning**: Regular scanning and fixing of security issues in infrastructure, code, and dependencies
 - **Monitoring**:
-  - CloudTrail, GuardDuty, and Cloudflare send automated alerts
-  - Check security alerts weekly
-  - Review unusual activity monthly
+  - CloudTrail, GuardDuty, Cloudflare, and GitHub Security provide automated alerts
+  - All security alerts are investigated immediately upon receipt
 - **Testing Records**:
   - Keep test results and security alerts in a shared folder
   - Note any vulnerabilities found and how they were fixed
@@ -129,7 +128,7 @@ Everyone in the company is responsible for security:
 - Think before clicking links or downloading attachments
 - Report suspicious emails/links to the team immediately
 
-### Monthly Check
+### Quarterly Check
 - Review who has access to what (remove if not needed)
 - Check for any unusual activity in accounts
 - Update passwords if any security incidents occurred in the wild

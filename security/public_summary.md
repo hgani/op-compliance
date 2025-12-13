@@ -23,16 +23,13 @@
 
 ## Security Monitoring & Testing Procedures
 
-### Continuous Monitoring
-- Automated security monitoring systems operate 24/7 to detect and alert on potential threats
-- Security alerts are reviewed regularly and investigated promptly
-- All security incidents are documented and tracked to resolution
-
-### Security Testing
-- **Vulnerability Management**: Regular scanning and prompt remediation of identified vulnerabilities
-- **Backup Testing**: Annual testing of backup and recovery procedures to ensure data can be restored when needed
-- **Access Control Reviews**: Regular verification that access rights are appropriate
-- **Incident Response Testing**: Annual testing of incident response procedures
+### Security Monitoring & Testing
+- **Automated Monitoring**: Security monitoring systems detect and alert on potential threats across infrastructure, code, and dependencies
+- **Immediate Response**: All security alerts are investigated promptly upon receipt
+- **Vulnerability Management**: Regular scanning and prompt remediation of security vulnerabilities
+- **Backup Testing**: Annual testing of backup and recovery procedures
+- **Access Reviews**: Quarterly verification that access rights are appropriate
+- **Incident Response**: Annual testing of incident response procedures
 
 ### Compliance & Standards
 - We comply with all applicable privacy laws in countries where we operate
