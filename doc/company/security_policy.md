@@ -1,6 +1,5 @@
 # Security Policy
 
-**Version:** 1.0
 **Date:** December 13, 2025
 **Applies to:** All company personnel and systems
 
