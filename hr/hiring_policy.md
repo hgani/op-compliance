@@ -28,7 +28,7 @@ We hire team members who want to build a long-term career with DocuLocker. We va
   - How much detail is provided in their answers?
   - Did they follow all instructions in the job description?
   - What motivates them most? (money, learning, career, passion)
-  - Are they looking for long-term growth or just a paycheck?
+  - Have they changed jobs frequently?
 
 - **GitHub profile review**:
   - Do they have active repositories showing genuine interest?
@@ -49,10 +49,30 @@ We hire team members who want to build a long-term career with DocuLocker. We va
   - Are they respectful and collaborative in tone?
 
 ### 3. Interview Process
-- **Technical assessment**: Focus on understanding fundamentals, not specific framework knowledge
-- **Culture fit discussion**: Explore alignment with our values
-- **Practical test**: Small, realistic task that demonstrates problem-solving approach
-- **CTO conversation**: Direct dialogue with technical leadership
+- **Current situation**:
+  - Have they graduated? When can they start?
+  - Any other job offers or commitments?
+
+- **Work history**:
+  - Why did they leave their previous job?
+  - What did they like/dislike about previous roles?
+  - How long do they typically stay at jobs?
+
+- **Technical discussion**:
+  - Walk through their GitHub projects
+  - Which part of development interests them most?
+  - Backend vs frontend preference
+  - Interest in other roles: infrastructure, UI/UX, QA?
+
+- **Company expectations**:
+  - We're looking for long-term commitment (2+ years)
+  - Standard working hours with flexibility
+  - Required participation in daily/weekly meetings
+  - Remote work requires self-discipline and reliability
+
+- **Candidate questions**:
+  - What do they want to know about us?
+  - What are their career growth expectations?
 
 ### 4. Decision Making
 - Hire for long-term potential, not immediate skills
