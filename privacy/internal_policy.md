@@ -229,8 +229,8 @@ Failure to comply with this policy may result in:
 
 ---
 
-**Document Owner:** Privacy Officer
+**Document Owner:** Director
 **Approval Date:** December 13, 2025
 **Next Review Date:** December 13, 2026
 
-For questions about this policy or privacy matters, contact: [Privacy Officer email]
+For questions about this policy or privacy matters, contact: [Director's email]

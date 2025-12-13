@@ -52,6 +52,9 @@ Everyone in the company is responsible for security:
 - Don't store sensitive data on personal devices
 - Back up important data regularly (automated where possible)
 - All backups must be encrypted and stored in separate geographic locations
+- **Data Retention**:
+  - Follow retention periods specified in privacy policy (7 years for client data, 24 months for analytics, etc.)
+  - Securely delete data when retention period expires
 - **Data Environment Separation**:
   - Never transfer sensitive production data (e.g., PII) from production to staging or testing environments
   - Use anonymized or synthetic data for development and testing
@@ -166,12 +169,15 @@ Keep records of client security requirements and how we meet them.
 **Enforcement**
 Security violations may result in disciplinary action, up to and including termination of contracts, and may lead to legal consequences.
 
+**Document Owner**: Director
+
 ## Review Schedule
 
 - Quick review every 6 months
 - Full review annually or after any security incident
 - Update when we start using new tools or services
 - Test incident response procedures annually
+- Privacy policy review: Annually (aligned with security policy review)
 
 ---
 
