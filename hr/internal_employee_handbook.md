@@ -125,19 +125,6 @@ We are a small, lean software company that values:
 - **Time off**: Take sick leave when needed - don't work while ill
 - **Accommodations**: We'll work with you on any special requirements
 
-## Problem Resolution
-
-### When You Face Challenges
-1. **Try to solve independently first**: Use your skills and resources
-2. **Ask for help**: Reach out in Slack/email for technical help
-3. **Escalate if needed**: If unresolved, bring to director's attention
-4. **Document solutions**: Share what you learned
-
-### When You Have Concerns
-1. **Talk directly**: Address issues with the person involved first
-2. **Seek mediation**: If direct conversation doesn't work, involve the director
-3. **Documentation**: Keep records of serious issues or repeated problems
-4. **External help**: For serious matters, we can seek HR/legal advice
 
 ## Leaving the Company
 
@@ -153,19 +140,13 @@ We are a small, lean software company that values:
 - **Knowledge transfer**: Ensure smooth handover to team
 - **Future collaboration**: Keep the door open for new projects
 
-## Legal and Compliance
+## Your Legal Protections
 
-### Employment Terms
-- **Contract**: All employment documented in formal agreement
-- **Local laws**: Comply with employment laws in your country
-- **Taxes**: Handle your own tax obligations appropriately
-- **Confidentiality**: Protect company and client information always
-
-### Intellectual Property
-- **Work product**: Code and materials created for company belong to company
-- **Open source**: We contribute to open source when appropriate
-- **Personal projects**: Keep personal work separate from company work
-- **Non-compete**: Reasonable restrictions only for direct competitors
+- **Written contract**: You'll have a formal agreement documenting your role, pay, and terms
+- **Tax responsibility**: You're responsible for your own tax obligations (get professional advice if needed)
+- **Local laws**: Familiarize yourself with employment laws in your country
+- **Confidentiality**: Protect company and client information as agreed in your contract
+- **Work product**: Code created for company belongs to company (as specified in your agreement)
 
 
 ---
