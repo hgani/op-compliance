@@ -20,11 +20,9 @@ Everyone must protect personal information:
 
 ### 2. Use Data Appropriately
 - Use data only for the purpose it was collected
-- Provide services to clients and users
-- Respond to support requests
-- Send technical notices
-- Improve services through analysis
-- Comply with legal requirements
+  - Provide services to clients and users
+  - Respond to support requests
+  - Improve services through analysis
 - Process payments through secure third-party processors only
 
 ### 3. Share Data Carefully
@@ -35,11 +33,15 @@ Everyone must protect personal information:
 - Share only necessary data (data minimization)
 
 ### 4. Handle Data Requests
-- **Request types**: Access, correct, delete, portability, object
-- **Timeline**: Acknowledge within 5 days, respond within 30 days
-- **Process**: Verify identity → locate data → assess → respond → document
-- **Account deletion**: Delete data automatically after account closure
-- Keep records of all requests for compliance
+- **Access requests**: Users can ask to see what personal data we have about them
+- **Correction requests**: Users can ask to fix inaccurate data
+- **Deletion requests**: Users can ask to delete their data ("right to be forgotten")
+- **Portability requests**: Users can request their data in a usable format for transfer
+- **Objection requests**: Users can object to certain uses of their data
+- **Timeline**: Acknowledge within 5 days, provide full response within 30 days
+- **Process**: Verify identity → locate all personal data → assess if request can be fulfilled → respond or explain refusal → document outcome
+- **Account deletion**: When users delete accounts, all associated data is automatically deleted after specified period
+- **Record keeping**: Keep records of all data requests for legal compliance
 
 ### 5. Manage Data Retention
 - **Principle**: Keep data only as long as necessary
@@ -95,8 +97,7 @@ Privacy violations may result in disciplinary action, contract termination, or l
 - Annual review
 - Review when laws change
 - Review after incidents
-- Review when implementing new services
-- Aligned with security policy review
+- Review when security policy is updated
 
 ---
 
