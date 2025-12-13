@@ -36,7 +36,7 @@ We are a small, lean software company that values:
 
 ### Technical Standards
 - **Write clean code**: Follow established best practices, document when necessary
-- **Security awareness**: Follow security policies, protect company and client data
+- **Security awareness**: Follow security policies, protect company and client data (see Security Policy & Privacy Policy)
 - **Practical solutions**: Choose the right tool for the job, not just the newest trend
 
 ### Work Structure
@@ -55,10 +55,11 @@ We are a small, lean software company that values:
 ## What We Don't Tolerate
 
 - Harassment or discrimination of any kind
-- Misuse of company or client data
+- Misuse of company or client data (violates Security Policy & Privacy Policy)
 - Knowingly delivering poor quality work
 - Creating a hostile or uncollaborative environment
 - Violating security policies
+- Privacy breaches or mishandling personal data
 
 ## Resolution
 
