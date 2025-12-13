@@ -14,16 +14,39 @@ We hire team members who want to build a long-term career with DocuLocker. We va
 ## Hiring Process
 
 ### 1. Job Posting
-- Write clear, honest job descriptions
-- Include specific questions to assess genuine interest
 - Be transparent about salary range upfront
 - Emphasize long-term partnership mindset
+- Include specific questions to assess genuine interest
+- Outline benefits unique to our company, such as:
+  - Work directly with the CTO
+  - Opportunity to learn latest technologies
+  - No bureaucracy or office politics
+  - No commuting or getting stuck in traffic
 
 ### 2. Application Review
-- Look for demonstrated ability to learn quickly
-- Prioritize potential over specific technology expertise
-- Assess independence and reliability through past experience
-- Check for thoughtful responses to application questions
+- **Application submission**:
+  - How much detail is provided in their answers?
+  - Did they follow all instructions in the job description?
+  - What motivates them most? (money, learning, career, passion)
+  - Are they looking for long-term growth or just a paycheck?
+
+- **GitHub profile review**:
+  - Do they have active repositories showing genuine interest?
+  - How many different technologies have they experimented with?
+  - Do they contribute to open source or have personal projects?
+  - Is their code organized and well-documented?
+
+- **Coding test evaluation**:
+  - Did they follow the test instructions exactly?
+  - Can they adapt when they hit roadblocks?
+  - Is their code clean and consistent?
+  - Do they ask clarifying questions or make assumptions?
+
+- **Communication assessment**:
+  - How quickly do they respond to emails?
+  - Is their communication clear and professional?
+  - Do they explain technical concepts well?
+  - Are they respectful and collaborative in tone?
 
 ### 3. Interview Process
 - **Technical assessment**: Focus on understanding fundamentals, not specific framework knowledge
