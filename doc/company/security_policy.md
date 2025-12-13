@@ -53,6 +53,9 @@ Everyone in the company is responsible for security:
 - Don't store sensitive data on personal devices
 - Back up important data regularly (automated where possible)
 - All backups must be encrypted and stored in separate geographic locations
+- **Data Environment Separation**:
+  - Never transfer sensitive production data (e.g., PII) from production to staging or testing environments
+  - Use anonymized or synthetic data for development and testing
 
 ### 2. Access Control
 - Use unique passwords for all accounts
@@ -96,6 +99,20 @@ Everyone in the company is responsible for security:
 - Include security requirements in contractor agreements
 - Don't give vendors more access than they need
 
+### 6. Working Across Borders
+- **Service Provider Awareness**:
+  - Use cloud services based in trusted jurisdictions (US, EU, etc.)
+  - Check where third-party services store their data
+  - Prefer services that allow data region selection
+- **Communication Across Time Zones**:
+  - Security incidents: notify immediately regardless of local time
+  - Use written communication (Slack/email) for security updates to ensure accountability
+  - Document all security-related decisions and actions
+- **Legal Compliance**:
+  - Be aware of data protection laws in countries where we operate
+  - Following GDPR generally covers most requirements as it's one of the strictest standards
+  - Be careful when using services that aren't globally recognized - understand their local implications first
+
 ## Specific Actions
 
 ### Daily Security Habits
@@ -112,6 +129,7 @@ Everyone in the company is responsible for security:
 - When bringing on new contractors: set up proper access, require MFA
 - When contractors finish: revoke all access immediately
 - When using new tools: ensure they meet basic security standards
+- When a client specifies data residency requirements: confirm our services can meet them
 
 ## Incident Response (What to Do When Something Goes Wrong)
 
