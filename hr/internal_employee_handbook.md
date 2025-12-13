@@ -58,10 +58,11 @@
 ## Tools and Resources
 
 ### Using Your Own Equipment
-- **Allowed**: You may use your own computer if preferred
+- **Bring your own device**: You'll provide your own computer for work
+  - You're free to choose your preferred development environment
+  - Most team members use similar configurations, making it easy to help each other
 - **Security**: Must follow security policies (encryption, MFA, etc.)
-- **Support**: Limited support for personal equipment
-- **Reimbursement**: Discuss if specific software/hardware is needed
+- **Reimbursement**: Generally approved for team-wide tools and software licenses that benefit everyone
 
 ## Compensation and Benefits
 
@@ -83,7 +84,7 @@
 
 ## Your Legal Protections
 
-- **Written contract**: You'll have a formal agreement documenting your role, pay, and terms
+- **Written contract**: Your employment is documented in a formal agreement that outlines your role, pay, and terms
 - **Tax responsibility**: You're responsible for your own tax obligations (get professional advice if needed)
 - **Local laws**: Familiarize yourself with employment laws in your country
 - **Confidentiality**: Follow confidentiality terms in your contract and Code of Conduct
