@@ -42,9 +42,9 @@
 ## Security Commitments
 
 ### Third-Party Management
-- All third-party services are vetted for security practices
-- Security requirements are included in all contractor and vendor agreements
-- Vendors are granted only the minimum access necessary for their work
+- Verify third-party services have encryption, 2FA, and good security practices
+- Include security requirements in all employment, contractor, and vendor agreements
+- Grant all personnel only the minimum access necessary for their work (employees, contractors, vendors)
 
 ### Incident Response
 - A documented incident response plan is maintained
@@ -52,8 +52,7 @@
 - Appropriate stakeholders are notified of significant security events
 
 ### Team Security
-- All team members are trained on security best practices
-- Security awareness is maintained through regular updates and discussions
+- Security awareness is maintained through regular team discussions
 - Security considerations are factored into all business decisions
 
 ---

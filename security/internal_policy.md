@@ -95,8 +95,8 @@ Everyone in the company is responsible for security:
 
 ### 5. Working with Clients and Vendors
 - Verify third-party services have encryption, 2FA, and good security practices
-- Include security requirements in all contractor agreements
-- Give vendors minimum access needed for their work
+- Include security requirements in all employment and contractor agreements
+- Grant all personnel minimum access needed for their work (employees, contractors, vendors)
 
 ### 6. Security Testing
 - **Backup Testing**: Test backup recovery annually
