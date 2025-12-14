@@ -3,7 +3,7 @@ DocuLocker specializes in transforming real-world business challenges into pract
 **Services Provided:**
 - Web application development
 - Mobile application development
-- End-to-end application development (from concept/MVP to launch)
+- End-to-end application development (from concept to launch)
 - Technical consulting
 - System integration
 
@@ -19,4 +19,4 @@ DocuLocker specializes in transforming real-world business challenges into pract
 - 8+ years in software development
 - Projects: Web applications, mobile applications, and business management systems
 - Industries: Tourism, Sustainability, Education, Employment
-- Approach: Building complete solutions from concept/MVP to production using lean methodology
+- Approach: Building complete solutions from concept to MVP to full launch using lean methodology
