@@ -5,7 +5,7 @@
 
 ## Our Hiring Philosophy
 
-We hire team members who want to build a long-term career with DocuLocker. When evaluating candidates, we prioritize:
+We hire team members who want to build a long-term partnership with DocuLocker. When evaluating candidates, we prioritize:
 
 **Potential over current skills**
 - Quick learner who picks up new technologies easily
@@ -29,7 +29,7 @@ We hire team members who want to build a long-term career with DocuLocker. When 
 - Emphasize long-term partnership mindset
 - Include specific questions to assess genuine interest
 - Outline benefits unique to our company, such as:
-  - Work directly with the CTO
+  - Work closely with the CTO
   - Opportunity to learn latest technologies
   - No bureaucracy or office politics
   - No commuting or getting stuck in traffic
@@ -70,7 +70,7 @@ We hire team members who want to build a long-term career with DocuLocker. When 
   - How long do they typically stay at jobs?
 
 - **Technical discussion**:
-  - Walk through their GitHub projects
+  - Walk through their GitHub projects with the CTO
   - Which part of development interests them most?
   - Backend vs frontend preference
   - Interest in other roles: infrastructure, UI/UX, QA?
