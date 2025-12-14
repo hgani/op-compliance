@@ -80,40 +80,38 @@ We hire team members who want to build a long-term career with DocuLocker. We va
   - Start date and probation period confirmed
 
 ### 4. Decision Making
-- Hire for long-term potential, not immediate skills
-- Prioritize learning ability over current knowledge
-- Consider team dynamics and collaboration style
-- Ensure alignment with remote work expectations
 
-## Key Criteria
+When making the final hiring decision, prioritize:
 
-### Essential Qualities
-- Quick learner: Demonstrated ability to pick up new technologies
-- Independent worker: Can deliver results without close supervision
-- Reliable: Meets deadlines and takes ownership
-- Committed: Seeking long-term growth, not short-term position
-
-### Technical Approach
+**Potential over current skills**
+- Quick learner who picks up new technologies easily
 - Strong understanding of fundamentals (MVC, REST, etc.)
-- Problem-solving mindset over tool-specific knowledge
-- Willingness to learn company's tech stack
-- Focus on practical solutions
+- Have a sense of ownership on the work they produce
 
-### Cultural Fit
-- Comfortable with minimal bureaucracy
+**Work style**
+- Independent worker who delivers without close supervision
+- Reliable, meets deadlines, and communicates well
+- Aligns with remote work expectations
+
+**Long-term fit**
+- Seeking long-term growth, not short-term position
 - Values efficiency and direct communication
-- Adaptable to change and innovation
-- Collaborative team player
+- Comfortable working in a small company
 
 
 
 ## Diversity and Inclusion
 
-We welcome applications from all qualified candidates regardless of:
-- Geographic location (we're a distributed team)
-- Background or experience level
-- Communication style (clarity over fluency)
-- Personal circumstances
+### Our Hiring Philosophy
+- **Skills-based hiring**: We engage talent based on skills, not physical location
+- **Legal eligibility**: All personnel must be legally eligible to work in their respective countries
+- **Global team**: Geographic location is not a barrier to joining our team
+
+### Our Culture
+- **Collaborative environment**: Knowledge sharing and mutual support
+- **Equal opportunities**: All team members treated fairly based on skills
+- **Professional growth**: Opportunities to learn new technologies for engagement and development
+- **Inclusive workplace**: Diversity in background and experience is valued
 
 ## Red Flags
 
@@ -121,7 +119,7 @@ We welcome applications from all qualified candidates regardless of:
 - Unwillingness to learn new technologies
 - Preference for structured, hierarchical environments
 - Short-term career goals
-- Poor communication responsiveness
+- Poor communication responsiveness and attitude
 
 ## Onboarding
 
