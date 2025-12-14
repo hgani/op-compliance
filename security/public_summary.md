@@ -3,6 +3,14 @@
 **Date:** December 13, 2025
 **Status:** Active
 
+## Scope
+
+This security policy applies to:
+
+- The DocuLocker SaaS product (https://www.doculocker.com/)
+- DocuLocker's internal systems and operations
+- All software systems developed by DocuLocker for clients
+
 ## Data Storage & Encryption Policy
 
 ### Data Protection
@@ -53,5 +61,7 @@
 - Security considerations are factored into all business decisions
 
 ---
+
+**Document Owner**: Director
 
 **Note**: This is a summary of our security practices. Additional details are available under appropriate confidentiality agreements as needed.

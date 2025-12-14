@@ -3,6 +3,14 @@
 **Date:** December 13, 2025
 **Applies to:** All team members and systems
 
+## Scope
+
+This security policy applies to:
+
+- The DocuLocker SaaS product (https://www.doculocker.com/)
+- DocuLocker's internal systems and operations
+- All software systems developed by DocuLocker for clients
+
 ## Shared Responsibility
 
 Everyone in the company is responsible for security:
