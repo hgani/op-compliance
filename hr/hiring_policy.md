@@ -5,11 +5,22 @@
 
 ## Our Hiring Philosophy
 
-We hire team members who want to build a long-term career with DocuLocker. We value:
-- **Learning mindset**: Continuous improvement and curiosity
-- **Independence**: Ability to work autonomously and reliably
-- **Commitment**: Full dedication to the role and team
-- **Cultural fit**: Alignment with our lean, agile, and innovative culture
+We hire team members who want to build a long-term career with DocuLocker. When evaluating candidates, we prioritize:
+
+**Potential over current skills**
+- Quick learner who picks up new technologies easily
+- Strong understanding of fundamentals (MVC, REST, etc.)
+- Have a sense of ownership on the work they produce
+
+**Work style**
+- Independent worker who delivers without close supervision
+- Reliable, meets deadlines, and communicates well
+- Aligns with remote work expectations
+
+**Long-term fit**
+- Seeking long-term growth, not short-term position
+- Values efficiency and direct communication
+- Comfortable working in a small company
 
 ## Hiring Process
 
@@ -74,35 +85,19 @@ We hire team members who want to build a long-term career with DocuLocker. We va
   - What do they want to know about us?
   - What are their career growth expectations?
 
-- **Offer clarity**:
-  - Salary and bonus arrangement explained clearly
-  - Holiday and annual leave entitlements discussed
-  - Start date and probation period confirmed
+### 4. Making the Offer
 
-### 4. Decision Making
-
-When making the final hiring decision, prioritize:
-
-**Potential over current skills**
-- Quick learner who picks up new technologies easily
-- Strong understanding of fundamentals (MVC, REST, etc.)
-- Have a sense of ownership on the work they produce
-
-**Work style**
-- Independent worker who delivers without close supervision
-- Reliable, meets deadlines, and communicates well
-- Aligns with remote work expectations
-
-**Long-term fit**
-- Seeking long-term growth, not short-term position
-- Values efficiency and direct communication
-- Comfortable working in a small company
+This can be a separate conversation or part of the final interview:
+- **Compensation**: Clearly explain salary and any bonus arrangement
+- **Benefits**: Discuss holiday and annual leave entitlements
+- **Logistics**: Confirm start date and probation period
+- **Next steps**: Outline what happens before their first day
 
 
 
 ## Diversity and Inclusion
 
-### Our Hiring Philosophy
+### Hiring Approach
 - **Skills-based hiring**: We engage talent based on skills, not physical location
 - **Legal eligibility**: All personnel must be legally eligible to work in their respective countries
 - **Global team**: Geographic location is not a barrier to joining our team
