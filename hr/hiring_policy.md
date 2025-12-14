@@ -74,6 +74,11 @@ We hire team members who want to build a long-term career with DocuLocker. We va
   - What do they want to know about us?
   - What are their career growth expectations?
 
+- **Offer clarity**:
+  - Salary and bonus arrangement explained clearly
+  - Holiday and annual leave entitlements discussed
+  - Start date and probation period confirmed
+
 ### 4. Decision Making
 - Hire for long-term potential, not immediate skills
 - Prioritize learning ability over current knowledge
@@ -100,34 +105,7 @@ We hire team members who want to build a long-term career with DocuLocker. We va
 - Adaptable to change and innovation
 - Collaborative team player
 
-## Remote Work Considerations
 
-### Requirements
-- Reliable internet connection
-- Suitable home workspace
-- Self-discipline and time management
-- Comfortable with asynchronous communication
-
-### Evaluation
-- Assess ability to work independently
-- Test communication responsiveness
-- Evaluate time zone compatibility
-- Consider home work environment
-
-## Compensation
-
-### Principles
-- Competitive based on local market rates
-- Clear salary range communicated upfront
-- Performance-based reviews annually
-- Transparency about compensation structure
-
-### Benefits Highlighted
-- Remote work flexibility
-- Learning and growth opportunities
-- Direct mentorship from experienced leadership
-- Minimal bureaucracy and politics
-- Work-life balance
 
 ## Diversity and Inclusion
 
@@ -162,4 +140,3 @@ Successful candidates will:
 
 - **Employee Handbook**: Details about work arrangements and benefits
 - **Code of Conduct**: Expected behaviors and values
-- **Security Policy**: Security requirements for all team members
