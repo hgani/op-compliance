@@ -106,35 +106,30 @@ When making the final hiring decision, prioritize:
 - **Skills-based hiring**: We engage talent based on skills, not physical location
 - **Legal eligibility**: All personnel must be legally eligible to work in their respective countries
 - **Global team**: Geographic location is not a barrier to joining our team
+- **Educational diversity**: We value both self-taught developers (strong self-learning ability) and those with formal education (strong CS foundation) - we don't discriminate based on educational background
 
 ### Our Culture
 - **Collaborative environment**: Knowledge sharing and mutual support
 - **Equal opportunities**: All team members treated fairly based on skills
 - **Professional growth**: Opportunities to learn new technologies for engagement and development
-- **Inclusive workplace**: Diversity in background and experience is valued
+- **Inclusive workplace**: Diversity in technical experience, skillset, and aptitude is valued
 
 ## Red Flags
 
-- Focus only on salary and benefits
-- Unwillingness to learn new technologies
-- Preference for structured, hierarchical environments
-- Short-term career goals
-- Poor communication responsiveness and attitude
-
-## Onboarding
-
-Successful candidates will:
-- Receive comprehensive introduction to company culture
-- Get hands-on mentorship from the CTO
-- Have clear initial projects with defined expectations
-- Join regular team meetings and discussions
-- Access all necessary documentation and tools
-
----
-
-**Document Owner**: Director
+- **Salary-focused**: Only interested in compensation, not the work (passion) or growth
+- **Fixed mindset**: Unwilling to learn new technologies or adapt
+- **Short-term outlook**: Seeking stepping stone position rather than long-term career
+- **Corporate preference**: Wants environment that small company cannot provide:
+  - Structured, hierarchical organization
+  - Formal career progression and promotion tracks
+  - Large teams with specialized roles only
+- **Poor communication**: Slow responses or unprofessional attitude during hiring process
 
 ## Related Documents
 
 - **Employee Handbook**: Details about work arrangements and benefits
 - **Code of Conduct**: Expected behaviors and values
+
+---
+
+**Document Owner**: Director
